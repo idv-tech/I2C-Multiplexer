@@ -1,4 +1,4 @@
-I2C-Multiplexer for Vivado IPI in Verilog.
+I2C(IIC) Multiplexer for Vivado IPI in Verilog.
 ==========================================
 
 Lightweigh I2C Multiplexer IP for Xilinx Vivado IPI in Verilog.
