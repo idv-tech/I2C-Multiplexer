@@ -1,10 +1,11 @@
-I2C-Multiplexer
-===============
+I2C-Multiplexer for Vivado IPI in Verilog.
+==========================================
 
-Lightweigh I2C Multiplexer IP on Verilog for Xilinx Vivado.
+Lightweigh I2C Multiplexer IP for Xilinx Vivado IPI in Verilog.
 
-We needed to connect 2 I2C slave devices connected on PCB to different set of pins of FPGA. Xilinx provided reference design used two different AXI_IIC IP to communicated with those slaves, but such solution cost some FPGA resources. So, this is light alternative for such situation.
-IP was somewhat tested/
+We needed to connect 2 I2C slave devices connected on PCB to different set of pins of FPGA. Xilinx provided reference design used two different AXI_IIC IP to communicated with those slaves, but such solution cost some FPGA resources. So, this is light alternative for such situation. IP was tested in multiple projects.
+
+
 
 Легковесный I2C мультиплексор написанный на Verilog для Xilinx Vivado.
 
